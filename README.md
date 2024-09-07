@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @SAUVERC
+- 👋 Hi, I’m sayan roy chowdhury
 - 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python
 
 <!---
 SAUVERC/SAUVERC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
